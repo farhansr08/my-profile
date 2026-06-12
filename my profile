@@ -1,33 +1,40 @@
-<IDOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-<title>My Profile</title>
+    <title>My Profile</title>
 </head>
+
 <body>
-<h1>Farhan SR</h1>
-<h2>Introduction</h2>
-<p>
-Hello! I am Farhan
-SR, a CSE student at Rajadhani Institute of Engineering and Technology. I am from Attingal,Trivandrum.I chose cse because I love programming.my dream is to become a football player or professional graphic designer 
-</p>
-<img src="farhan.jpeg" alt="My Photo" width-"200">
-<h2>Interests</h2>
-<ul>
-<li>I love to play footbalk</li> 
-<li>I love to draw< li>
-<li>I also play cricket</li>
-</ul>
-<h2>Skills</h2>
-<ol>
-<li>HTML</1i>
-<li>Drawing</1i>
-<li>Footbalk</1i>
-</ol>
-<h2>Contact Information</h2x
-<div>
-<p>Email: <a href="mailto:farhan05039k@gmail.com">noeljb5115@gmail.com</ax</p> 
-<p>Mobile: <a href="number:9847200616"></a></p>
-<p>adress: <a href="address:Alamcode Attingal Trivandrum"></ax</p>
-</div>
+
+    <h1>Farhan SR</h1>  
+    <h2>Introduction</h2>
+    <p>
+        Hello! I am Farhan SR, a CSE student at Rajadhani Institute of
+        Engineering and Technology. I am from Attingal,Trivandrum.I chose cse because I love programming.my dream is to become a football player or professional graphic designer.
+    </p>
+
+    <img src="farhan.jpeg" alt="My Photo" width="200">
+
+    <h2>Interests</h2>
+    <ul>
+        <li>I love to play football</li>
+        <li>I love to draw</li>
+        <li>I also play cricket</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ol>
+        <li>HTML</li>
+        <li>Drawing</li>
+        <li>Football</li>
+    </ol>
+
+    <h2>Contact Information</h2>
+    <div>
+        <p>Email: <a href="mailto:farhan05039k@gmail.com">noeljb5115@gmail.com</a></p>
+        <p>Mobile: <a href="number:9847200616"></a></p>
+        <p>adress: <a href="address:Alamcode Attingal Trivandrum"></a></p>
+    </div>
+
 </body>
-</htm1>
+</html>
